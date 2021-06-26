@@ -1,6 +1,7 @@
 # DELL Optiplex 790 Monterey
 
 ## Use this program from macOS Catalina and later only!
+### Also works for many other DELL Optiplex Seriesxx is enough to have Sandy Bridge microarchitecture at least
 - For Legacy install/Post Install 
 - UEFI/Post Install
 
