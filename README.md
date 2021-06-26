@@ -5,6 +5,7 @@
 - For Legacy install/Post Install 
 - UEFI/Post Install
 
+
 - Build by [chris1111](https://github.com/chris1111/)
 - Credit: [OpenCore Team](https://github.com/acidanthera/OpenCorePkg)
 
@@ -21,6 +22,8 @@
 - Usage:[UEFI Post Install OpenCore](https://github.com/chris1111/DELL-Optiplex-790-Monterey/blob/main/USAGE%20OpenCore%20UEFI%20on%20DELL%20Optiplex%20790xx.pdf)
 
 - Download ☞ [DSDT Dell Optiplex 790](https://github.com/chris1111/DELL-Optiplex-790-Monterey/blob/main/Dell%20790%20DSDT.aml.zip)
+
+- French User ☞ :[DELL Optiplex 790 Monterey](https://www.hackintosh-montreal.com/t12009-dell-optiplex-790-monterey-installer)
  
 
 
