@@ -4,6 +4,9 @@
 - For Legacy install/Post Install 
 - UEFI/Post Install
 
+- Build by [chris1111](https://github.com/chris1111/)
+- Credit: [OpenCore Team](https://github.com/acidanthera/OpenCorePkg)
+
 ![CSEX](https://user-images.githubusercontent.com/6248794/123500391-bc799100-d60b-11eb-9296-6cffed700e74.png)
 
 ![Capture ](https://user-images.githubusercontent.com/6248794/123500443-17ab8380-d60c-11eb-99d0-24a85b2300df.png)
