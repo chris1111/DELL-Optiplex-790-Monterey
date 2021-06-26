@@ -18,6 +18,8 @@
 [![Modular Image Creation](https://user-images.githubusercontent.com/6248794/118173318-6a820080-b3fb-11eb-9ba5-203165fb6f26.png)](https://drive.google.com/file/d/1VIoc1-2OK1rDKGUuqLVGnn4s8x7BNPGL/view?usp=sharing)
 
 - Usage:[UEFI Post Install OpenCore](https://github.com/chris1111/DELL-Optiplex-790-Monterey/blob/main/USAGE%20OpenCore%20UEFI%20on%20DELL%20Optiplex%20790xx.pdf)
+
+- Download ☞ [DSDT Dell Optiplex 790](https://github.com/chris1111/DELL-Optiplex-790-Monterey/blob/main/Dell%20790%20DSDT.aml.zip)
  
 
 
