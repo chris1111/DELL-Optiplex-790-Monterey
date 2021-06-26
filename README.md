@@ -1,10 +1,14 @@
 # DELL Optiplex 790 Monterey
 
 ## Use this program from macOS Catalina and later only!
+- For Legacy install/Post Install 
+- UEFI/Post Install
 
 ![CSEX](https://user-images.githubusercontent.com/6248794/123500391-bc799100-d60b-11eb-9296-6cffed700e74.png)
 
 ![Capture ](https://user-images.githubusercontent.com/6248794/123500443-17ab8380-d60c-11eb-99d0-24a85b2300df.png)
+
+### Download V1 ➤ [DELL Optiplex 790 Monterey](https://github.com/chris1111/DELL-Optiplex-790-Monterey/releases/tag/V1)
 
 - View full Video ⬇︎
 
