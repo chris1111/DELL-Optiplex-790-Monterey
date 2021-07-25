@@ -1,10 +1,12 @@
 # DELL Optiplex 790 Monterey
 
+
 ## Use this program from macOS Catalina and later only!
 ### Also works for many other DELL Optiplex Seriesxx is enough to have Sandy Bridge microarchitecture at least
 - For Legacy install/Post Install 
 - UEFI/Post Install
 
+## Update 25 July 2021 fix mount EFI BigSur 11.5 (20G71)
 
 - Build by [chris1111](https://github.com/chris1111/)
 - Credit: [OpenCore Team](https://github.com/acidanthera/OpenCorePkg)
