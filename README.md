@@ -6,7 +6,7 @@
 - For Legacy install/Post Install 
 - UEFI/Post Install
 
-## Update 25 July 2021 fix mount EFI BigSur 11.5 (20G71)
+## Update 01 Dec 2021 Update OC 0.7.6
 
 - Build by [chris1111](https://github.com/chris1111/)
 - Credit: [OpenCore Team](https://github.com/acidanthera/OpenCorePkg)

@@ -83,6 +83,8 @@
 			<integer>0</integer>
 			<key>RebuildAppleMemoryMap</key>
 			<true/>
+			<key>ResizeAppleGpuBars</key>
+			<integer>-1</integer>
 			<key>SetupVirtualMap</key>
 			<true/>
 			<key>SignalAppleOS</key>
@@ -360,6 +362,8 @@
 		</dict>
 		<key>Scheme</key>
 		<dict>
+			<key>CustomKernel</key>
+			<false/>
 			<key>FuzzyMatch</key>
 			<true/>
 			<key>KernelArch</key>
@@ -385,13 +389,13 @@
 			<key>LauncherPath</key>
 			<string>Default</string>
 			<key>PickerAttributes</key>
-			<integer>17</integer>
+			<integer>145</integer>
 			<key>PickerAudioAssist</key>
 			<false/>
 			<key>PickerMode</key>
 			<string>External</string>
 			<key>PickerVariant</key>
-			<string>chris1111\SilentNight</string>
+			<string>chris1111\Flavours-X</string>
 			<key>PollAppleHotKeys</key>
 			<false/>
 			<key>ShowPicker</key>
@@ -484,7 +488,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Flavour</key>
 				<string>Auto</string>
 				<key>Name</key>
@@ -504,7 +508,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Flavour</key>
 				<string>Auto</string>
 				<key>Name</key>
@@ -524,7 +528,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Flavour</key>
 				<string>Auto</string>
 				<key>Name</key>
@@ -564,7 +568,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Flavour</key>
 				<string>Auto</string>
 				<key>Name</key>
@@ -584,7 +588,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Flavour</key>
 				<string>Auto</string>
 				<key>Name</key>
@@ -604,7 +608,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Flavour</key>
 				<string>Auto</string>
 				<key>Name</key>
@@ -624,7 +628,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Flavour</key>
 				<string>Auto</string>
 				<key>Name</key>
@@ -644,7 +648,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Flavour</key>
 				<string>Auto</string>
 				<key>Name</key>
@@ -664,7 +668,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Flavour</key>
 				<string>Auto</string>
 				<key>Name</key>
@@ -684,7 +688,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Flavour</key>
 				<string>Auto</string>
 				<key>Name</key>
@@ -719,9 +723,9 @@
 				<key>SystemAudioVolume</key>
 				<data>MA==</data>
 				<key>boot-args</key>
-				<string>-v -lilubetaall alcid=11 keepsyms=1 brcmfx-country=CA</string>
+				<string>-v -lilubetaall alcid=11 keepsyms=1 amfi_get_out_of_my_way=1 -no_compat_check</string>
 				<key>csr-active-config</key>
-				<data>ZwAAAA==</data>
+				<data>7w8AAA==</data>
 				<key>prev-lang:kbd</key>
 				<data>ZW4tVVM6MA==</data>
 			</dict>
@@ -742,6 +746,7 @@
 				<string>boot-args</string>
 				<string>booter-fileset-basesystem</string>
 				<string>booter-fileset-kernel</string>
+				<string>csr-active-config</string>
 			</array>
 		</dict>
 		<key>LegacyEnable</key>
@@ -788,9 +793,9 @@
 			<key>ARTFrequency</key>
 			<integer>0</integer>
 			<key>BoardProduct</key>
-			<string>Mac-A369DDC4E67F1C45</string>
+			<string>Mac-DB15BD556843C820</string>
 			<key>BoardRevision</key>
-			<data></data>
+			<data>Hw==</data>
 			<key>DevicePathsSupported</key>
 			<integer>0</integer>
 			<key>FSBFrequency</key>
@@ -800,19 +805,19 @@
 			<key>PlatformName</key>
 			<string></string>
 			<key>SmcBranch</key>
-			<data>ajExNwAAAAA=</data>
+			<data>ajk1ajk1YW0=</data>
 			<key>SmcPlatform</key>
-			<data>ajExNwAAAAA=</data>
+			<data>ajk1AAAAAAA=</data>
 			<key>SmcRevision</key>
-			<data>AjEPAAA3</data>
+			<data>AjMPAAAS</data>
 			<key>StartupPowerEvents</key>
 			<integer>0</integer>
 			<key>SystemProductName</key>
-			<string>iMac16,1</string>
+			<string>iMac17,1</string>
 			<key>SystemSerialNumber</key>
-			<string></string>
+			<string>C02PQAYHGG7L</string>
 			<key>SystemUUID</key>
-			<string>C70ABD71-E665-471A-BAB9-004474B12D61</string>
+			<string>7B5EE915-1F8C-4F99-AFBB-20E2066AEC3A</string>
 		</dict>
 		<key>Generic</key>
 		<dict>
@@ -821,9 +826,9 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02751108GUJ0DX1H</string>
+			<string>C02520500CDGPF7UE</string>
 			<key>ProcessorType</key>
-			<integer>1542</integer>
+			<integer>1541</integer>
 			<key>ROM</key>
 			<data></data>
 			<key>SpoofVendor</key>
@@ -831,37 +836,37 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>iMac16,1</string>
+			<string>iMac17,1</string>
 			<key>SystemSerialNumber</key>
-			<string></string>
+			<string>C02PQAYHGG7L</string>
 			<key>SystemUUID</key>
-			<string>C70ABD71-E665-471A-BAB9-004474B12D61</string>
+			<string>7B5EE915-1F8C-4F99-AFBB-20E2066AEC3A</string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
 			<key>BID</key>
-			<string>Mac-A369DDC4E67F1C45</string>
+			<string>Mac-DB15BD556843C820</string>
 			<key>FirmwareFeatures</key>
-			<data>N+EP/AAAAAA=</data>
+			<data>N+EP/AgAAAA=</data>
 			<key>FirmwareFeaturesMask</key>
-			<data>P/8f/wAAAAA=</data>
+			<data>P/8f/wgAAAA=</data>
 			<key>MLB</key>
-			<string>C02751108GUJ0DX1H</string>
+			<string>C02520500CDGPF7UE</string>
 			<key>ROM</key>
 			<data></data>
 			<key>SystemSerialNumber</key>
-			<string></string>
+			<string>C02PQAYHGG7L</string>
 			<key>SystemUUID</key>
-			<string>C70ABD71-E665-471A-BAB9-004474B12D61</string>
+			<string>7B5EE915-1F8C-4F99-AFBB-20E2066AEC3A</string>
 		</dict>
 		<key>SMBIOS</key>
 		<dict>
 			<key>BIOSReleaseDate</key>
-			<string>02/23/2021</string>
+			<string>09/25/2021</string>
 			<key>BIOSVendor</key>
 			<string></string>
 			<key>BIOSVersion</key>
-			<string>427.0.0.0.0</string>
+			<string>447.40.12.0.0</string>
 			<key>BoardAssetTag</key>
 			<string>Base Board Asset Tag</string>
 			<key>BoardLocationInChassis</key>
@@ -869,31 +874,31 @@
 			<key>BoardManufacturer</key>
 			<string></string>
 			<key>BoardProduct</key>
-			<string>Mac-A369DDC4E67F1C45</string>
+			<string>Mac-DB15BD556843C820</string>
 			<key>BoardSerialNumber</key>
-			<string></string>
+			<string>C02520500CDGPF7UE</string>
 			<key>BoardType</key>
 			<integer>10</integer>
 			<key>BoardVersion</key>
-			<string>iMac16,1</string>
+			<string>iMac17,1</string>
 			<key>ChassisAssetTag</key>
 			<string>Asset Tag#</string>
 			<key>ChassisManufacturer</key>
 			<string></string>
 			<key>ChassisSerialNumber</key>
-			<string></string>
+			<string>C02PQAYHGG7L</string>
 			<key>ChassisType</key>
 			<integer>13</integer>
 			<key>ChassisVersion</key>
-			<string>Mac-A369DDC4E67F1C45</string>
+			<string>Mac-DB15BD556843C820</string>
 			<key>FirmwareFeatures</key>
-			<data>N+EP/AAAAAA=</data>
+			<data>N+EP/AgAAAA=</data>
 			<key>FirmwareFeaturesMask</key>
-			<data>P/8f/wAAAAA=</data>
+			<data>P/8f/wgAAAA=</data>
 			<key>PlatformFeature</key>
-			<integer>3</integer>
+			<integer>0</integer>
 			<key>ProcessorType</key>
-			<integer>1542</integer>
+			<integer>1541</integer>
 			<key>SmcVersion</key>
 			<data></data>
 			<key>SystemFamily</key>
@@ -901,13 +906,13 @@
 			<key>SystemManufacturer</key>
 			<string></string>
 			<key>SystemProductName</key>
-			<string>iMac16,1</string>
+			<string>iMac17,1</string>
 			<key>SystemSKUNumber</key>
 			<string>System SKU#</string>
 			<key>SystemSerialNumber</key>
-			<string></string>
+			<string>C02PQAYHGG7L</string>
 			<key>SystemUUID</key>
-			<string>C70ABD71-E665-471A-BAB9-004474B12D61</string>
+			<string>7B5EE915-1F8C-4F99-AFBB-20E2066AEC3A</string>
 			<key>SystemVersion</key>
 			<string>1.0</string>
 		</dict>
@@ -945,6 +950,8 @@
 			<string>Auto</string>
 			<key>CustomDelays</key>
 			<false/>
+			<key>GraphicsInputMirroring</key>
+			<false/>
 			<key>KeyInitialDelay</key>
 			<integer>50</integer>
 			<key>KeySubsequentDelay</key>
@@ -979,15 +986,96 @@
 		<true/>
 		<key>Drivers</key>
 		<array>
-			<string>apfs.efi</string>
-			<string>CrScreenshotDxe.efi</string>
-			<string>HFSPlus.efi</string>
-			<string>HiiDatabase.efi</string>
-			<string>OpenCanopy.efi</string>
-			<string>OpenRuntime.efi</string>
-			<string>OpenUsbKbDxe.efi</string>
-			<string>UsbMouseDxe.efi</string>
-			<string>XhciDxe.efi</string>
+			<dict>
+				<key>Arguments</key>
+				<string></string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>apfs.efi</string>
+			</dict>
+			<dict>
+				<key>Arguments</key>
+				<string></string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>CrScreenshotDxe.efi</string>
+			</dict>
+			<dict>
+				<key>Arguments</key>
+				<string></string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>HFSPlus.efi</string>
+			</dict>
+			<dict>
+				<key>Arguments</key>
+				<string></string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>HiiDatabase.efi</string>
+			</dict>
+			<dict>
+				<key>Arguments</key>
+				<string></string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>OpenCanopy.efi</string>
+			</dict>
+			<dict>
+				<key>Arguments</key>
+				<string></string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>OpenRuntime.efi</string>
+			</dict>
+			<dict>
+				<key>Arguments</key>
+				<string></string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>OpenUsbKbDxe.efi</string>
+			</dict>
+			<dict>
+				<key>Arguments</key>
+				<string></string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>UsbMouseDxe.efi</string>
+			</dict>
+			<dict>
+				<key>Arguments</key>
+				<string></string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>XhciDxe.efi</string>
+			</dict>
 		</array>
 		<key>Input</key>
 		<dict>
@@ -1086,6 +1174,8 @@
 			<false/>
 			<key>ExitBootServicesDelay</key>
 			<integer>0</integer>
+			<key>ForceOcWriteFlash</key>
+			<false/>
 			<key>ForgeUefiSupport</key>
 			<false/>
 			<key>IgnoreInvalidFlexRatio</key>
@@ -1096,6 +1186,8 @@
 			<false/>
 			<key>RequestBootVarRouting</key>
 			<true/>
+			<key>ResizeGpuBars</key>
+			<integer>-1</integer>
 			<key>TscSyncTimeout</key>
 			<integer>0</integer>
 			<key>UnblockFsConnect</key>
