@@ -6,7 +6,8 @@
 - For Legacy install/Post Install 
 - UEFI/Post Install
 
-## Update 01 Dec 2021 Update OC 0.7.6
+## Latest Update 21 Mar 2022 Fix open Installer in Monterey 12.3
+- Update 01 Dec 2021 Update OC 0.7.6
 
 - Build by [chris1111](https://github.com/chris1111/)
 - Credit: [OpenCore Team](https://github.com/acidanthera/OpenCorePkg)
